@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>Interceptor Test Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>Interceptor Test Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Task" name="Task">30e06a70db1222002e38711ebf961981</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2016-12-09 20:53:32</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>0a4f96dadbe762002e38711ebf961918</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Interceptor Test Table</sys_name>
+        <sys_package display_value="Interceptor Test" source="x_66238_intercept">9d4f1adadb2762002e38711ebf961932</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Interceptor Test">9d4f1adadb2762002e38711ebf961932</sys_scope>
+        <sys_update_name>sys_wizard_answer_0a4f96dadbe762002e38711ebf961918</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-12-09 20:53:32</sys_updated_on>
+        <table/>
+        <target_url>x_66238_intercept_interceptor_test_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

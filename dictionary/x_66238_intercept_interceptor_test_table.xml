@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Interceptor Test Table" max_length="40" name="x_66238_intercept_interceptor_test_table" type="collection"/>
+</database>
